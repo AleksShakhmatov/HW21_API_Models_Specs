@@ -3,6 +3,6 @@ package models.lombok;
 import lombok.Data;
 
 @Data
-public class UserDataLombokModel {
-    String name, job;
+public class UserDataRegisterLombokModel {
+    String email;
 }
